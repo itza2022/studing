@@ -1,0 +1,2 @@
+# studing
+Studind for azure
